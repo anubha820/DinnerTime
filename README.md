@@ -12,6 +12,5 @@ The system can be divided into three major part:
 
 Everything is hosted on AWS machines and in the whole design, one of our main objective was to implement a scalable application which can be easily improved and enhanced by  modifying certain elements.
 
-</content>
-  <tabTrigger></tabTrigger>
-</snippet>
+Architecture Flowchart:
+![alt tag](https://github.com/Patricknew/DinnerTime/blob/master/Architecture.png)
