@@ -1,8 +1,5 @@
 <snippet>
   <content>
-    <b>DinnerTime</b>
-    
-
 <b>Description: </b>
 This is an application hosted cloud services that infers the ambiance and styles of restaurants based off of user-uploaded images.  Our algorithm will process images on Amazon EC2 instances pre-trained with a convolutional neural network and return the style. The result will provide users with additional information that will aid them in selecting the right restaurant.
 
